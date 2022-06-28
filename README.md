@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/RpNDzZG/Elden-Ring.png" width="350"></a>
-<h1 align="center"><b>How-To install Seamless Co-op Mod for Elden Ring</b></h1>
+<h1 align="center"><b>How to install Seamless Co-op Mod for Elden Ring</b></h1>
 <br />
 
 ## Prerequisites:
